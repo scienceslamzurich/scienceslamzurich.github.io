@@ -1542,3 +1542,10 @@ there.
 .main-content h3 {
   /**/
 }
+
+@media (max-width: 800px) { 
+  .hiddenmobile {
+    display: none !important;
+  }
+
+}
