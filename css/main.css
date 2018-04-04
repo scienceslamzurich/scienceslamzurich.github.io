@@ -1548,4 +1548,12 @@ there.
     display: none !important;
   }
 
+  .logo h3 {
+    font-size: 1.5em !important;
+    padding-top: .35em !important;
+  }
+
+  .navbar a {
+    font-size: 1em !important;
+  }
 }
