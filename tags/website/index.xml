@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website on Science Slam Zürich</title>
-    <link>http://example.org/tags/website/</link>
+    <link>http://scienceslamzurich.ch/tags/website/</link>
     <description>Recent content in Website on Science Slam Zürich</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 12 Nov 2019 21:14:11 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/website/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://scienceslamzurich.ch/tags/website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Benjamin Schneider</title>
-      <link>http://example.org/team/benjamin-schneider/</link>
+      <link>http://scienceslamzurich.ch/team/benjamin-schneider/</link>
       <pubDate>Tue, 12 Nov 2019 21:14:11 +0100</pubDate>
       
-      <guid>http://example.org/team/benjamin-schneider/</guid>
+      <guid>http://scienceslamzurich.ch/team/benjamin-schneider/</guid>
       <description>Benjamin joined Science Slam Zurich back in 2016 while working in software engineering in the events industry out of a passion for organizing events and learning about new topics. Currently studying Computer Science and Economics in Zurich, he takes care of all online activities and helps producing our events.</description>
     </item>
     

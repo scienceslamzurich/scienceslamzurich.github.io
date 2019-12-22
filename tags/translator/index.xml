@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Translator on Science Slam Zürich</title>
-    <link>http://example.org/tags/translator/</link>
+    <link>http://scienceslamzurich.ch/tags/translator/</link>
     <description>Recent content in Translator on Science Slam Zürich</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 12 Nov 2019 21:14:27 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/translator/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://scienceslamzurich.ch/tags/translator/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jens Duru</title>
-      <link>http://example.org/team/jens-duru/</link>
+      <link>http://scienceslamzurich.ch/team/jens-duru/</link>
       <pubDate>Tue, 12 Nov 2019 21:14:27 +0100</pubDate>
       
-      <guid>http://example.org/team/jens-duru/</guid>
+      <guid>http://scienceslamzurich.ch/team/jens-duru/</guid>
       <description>Jens, 25 - recently graduated from ETH Zurich with a Masters in Biomedical Engineering and is currently trying to do some scijens as a PhD student.</description>
     </item>
     

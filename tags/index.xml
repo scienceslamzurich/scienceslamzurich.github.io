@@ -2,92 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Science Slam Zürich</title>
-    <link>http://example.org/tags/</link>
+    <link>http://scienceslamzurich.ch/tags/</link>
     <description>Recent content in Tags on Science Slam Zürich</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 12 Nov 2019 21:14:27 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://scienceslamzurich.ch/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Communications</title>
-      <link>http://example.org/tags/communications/</link>
+      <link>http://scienceslamzurich.ch/tags/communications/</link>
       <pubDate>Tue, 12 Nov 2019 21:14:27 +0100</pubDate>
       
-      <guid>http://example.org/tags/communications/</guid>
+      <guid>http://scienceslamzurich.ch/tags/communications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Translator</title>
-      <link>http://example.org/tags/translator/</link>
+      <link>http://scienceslamzurich.ch/tags/translator/</link>
       <pubDate>Tue, 12 Nov 2019 21:14:27 +0100</pubDate>
       
-      <guid>http://example.org/tags/translator/</guid>
+      <guid>http://scienceslamzurich.ch/tags/translator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Budgeting</title>
-      <link>http://example.org/tags/budgeting/</link>
+      <link>http://scienceslamzurich.ch/tags/budgeting/</link>
       <pubDate>Tue, 12 Nov 2019 21:14:21 +0100</pubDate>
       
-      <guid>http://example.org/tags/budgeting/</guid>
+      <guid>http://scienceslamzurich.ch/tags/budgeting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EventOrganization</title>
-      <link>http://example.org/tags/eventorganization/</link>
+      <link>http://scienceslamzurich.ch/tags/eventorganization/</link>
       <pubDate>Tue, 12 Nov 2019 21:14:21 +0100</pubDate>
       
-      <guid>http://example.org/tags/eventorganization/</guid>
+      <guid>http://scienceslamzurich.ch/tags/eventorganization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Finances</title>
-      <link>http://example.org/tags/finances/</link>
+      <link>http://scienceslamzurich.ch/tags/finances/</link>
       <pubDate>Tue, 12 Nov 2019 21:14:21 +0100</pubDate>
       
-      <guid>http://example.org/tags/finances/</guid>
+      <guid>http://scienceslamzurich.ch/tags/finances/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marketing</title>
-      <link>http://example.org/tags/marketing/</link>
+      <link>http://scienceslamzurich.ch/tags/marketing/</link>
       <pubDate>Tue, 12 Nov 2019 21:14:21 +0100</pubDate>
       
-      <guid>http://example.org/tags/marketing/</guid>
+      <guid>http://scienceslamzurich.ch/tags/marketing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SuperDuper</title>
-      <link>http://example.org/tags/superduper/</link>
+      <link>http://scienceslamzurich.ch/tags/superduper/</link>
       <pubDate>Tue, 12 Nov 2019 21:14:21 +0100</pubDate>
       
-      <guid>http://example.org/tags/superduper/</guid>
+      <guid>http://scienceslamzurich.ch/tags/superduper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EventProduction</title>
-      <link>http://example.org/tags/eventproduction/</link>
+      <link>http://scienceslamzurich.ch/tags/eventproduction/</link>
       <pubDate>Tue, 12 Nov 2019 21:14:11 +0100</pubDate>
       
-      <guid>http://example.org/tags/eventproduction/</guid>
+      <guid>http://scienceslamzurich.ch/tags/eventproduction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Website</title>
-      <link>http://example.org/tags/website/</link>
+      <link>http://scienceslamzurich.ch/tags/website/</link>
       <pubDate>Tue, 12 Nov 2019 21:14:11 +0100</pubDate>
       
-      <guid>http://example.org/tags/website/</guid>
+      <guid>http://scienceslamzurich.ch/tags/website/</guid>
       <description></description>
     </item>
     
