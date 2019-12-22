@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science Slam Zürich</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Science Slam Zürich</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 07 Mar 2020 20:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mavi N. Polatoglu</title>
+      <link>http://example.org/team/mavi-polatoglu/</link>
+      <pubDate>Tue, 12 Nov 2019 21:14:21 +0100</pubDate>
+      
+      <guid>http://example.org/team/mavi-polatoglu/</guid>
+      <description>I am student at ETH Zürich and working part-time in IT&amp;rsquo;IS Foundation in the field of biomedical engineering. Things that excite me are engineering, science, rock &amp;lsquo;n&amp;rsquo; roll, and pretty lights.</description>
+    </item>
+    
+    <item>
+      <title>Murezi Capaul</title>
+      <link>http://example.org/team/murezi-capaul/</link>
+      <pubDate>Tue, 12 Nov 2019 21:14:21 +0100</pubDate>
+      
+      <guid>http://example.org/team/murezi-capaul/</guid>
+      <description>Murezi has been with Science Slam Zurich for about a year. Being the treasurer, he must sometimes play the role of the fun-police. As opposed to the real scientists and engineers in the team, he is still in his health science and technolgy bachelors, looking to get the degree in 2020.</description>
+    </item>
+    
+    <item>
+      <title>Benjamin Schneider</title>
+      <link>http://example.org/team/benjamin-schneider/</link>
+      <pubDate>Tue, 12 Nov 2019 21:14:11 +0100</pubDate>
+      
+      <guid>http://example.org/team/benjamin-schneider/</guid>
+      <description>Benjamin joined Science Slam Zurich back in 2016 while working in software engineering in the events industry out of a passion for organizing events and learning about new topics. Currently studying Computer Science and Economics in Zurich, he takes care of all online activities and helps producing our events.</description>
+    </item>
+    
+    <item>
+      <title>Jens Duru</title>
+      <link>http://example.org/team/jens-duru/</link>
+      <pubDate>Tue, 12 Nov 2019 21:14:27 +0100</pubDate>
+      
+      <guid>http://example.org/team/jens-duru/</guid>
+      <description>Jens, 25 - recently graduated from ETH Zurich with a Masters in Biomedical Engineering and is currently trying to do some scijens as a PhD student.</description>
+    </item>
+    
+    <item>
+      <title>Casino Science Slam</title>
+      <link>http://example.org/events/casino-science-slam/</link>
+      <pubDate>Sat, 07 Mar 2020 20:00:00 +0100</pubDate>
+      
+      <guid>http://example.org/events/casino-science-slam/</guid>
+      <description>Four science slammers meet four poetry slammers and take the stage together. Moderated by Patti Basler.</description>
+    </item>
+    
+    <item>
+      <title>Zurich Life Science Day 2020</title>
+      <link>http://example.org/events/zurich-life-science-day/</link>
+      <pubDate>Tue, 28 Jan 2020 08:30:00 +0100</pubDate>
+      
+      <guid>http://example.org/events/zurich-life-science-day/</guid>
+      <description>Zurich Life Science Day is the largest career fair dedicated to Life Sciences in Switzerland.
+This anual event, organised by the Life Science Zurich Young Scientist Network, takes place at the Lichthof of the University of Zurich, Campus Irchel.
+Join us on the 28th of January 2020 and interact with representatives from more than 40 companies, in our company exhibition. Moreover, you have the chance to get your CV chacked and to take a professional CV picture!</description>
+    </item>
+    
+  </channel>
+</rss>

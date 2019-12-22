@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finances on Science Slam Zürich</title>
+    <link>http://example.org/tags/finances/</link>
+    <description>Recent content in Finances on Science Slam Zürich</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 12 Nov 2019 21:14:21 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/finances/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Murezi Capaul</title>
+      <link>http://example.org/team/murezi-capaul/</link>
+      <pubDate>Tue, 12 Nov 2019 21:14:21 +0100</pubDate>
+      
+      <guid>http://example.org/team/murezi-capaul/</guid>
+      <description>Murezi has been with Science Slam Zurich for about a year. Being the treasurer, he must sometimes play the role of the fun-police. As opposed to the real scientists and engineers in the team, he is still in his health science and technolgy bachelors, looking to get the degree in 2020.</description>
+    </item>
+    
+  </channel>
+</rss>

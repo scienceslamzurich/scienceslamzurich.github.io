@@ -1397,7 +1397,7 @@ there.
 /* Colors */
 /* Custom styles */
 .header-bg {
-  background-image: url("../images/header_bg.jpg");
+  background-image: url("/images/header_bg.jpg");
   background-size: cover;
   position: relative;
   width: 100%;
