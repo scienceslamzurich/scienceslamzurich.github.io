@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Static-pages on Science Slam Zürich</title>
+    <link>http://scienceslamzurich.ch/static-pages/</link>
+    <description>Recent content in Static-pages on Science Slam Zürich</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 28 Jan 2020 08:30:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://scienceslamzurich.ch/static-pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pictures</title>
+      <link>http://scienceslamzurich.ch/static-pages/pictures/</link>
+      <pubDate>Tue, 28 Jan 2020 08:30:00 +0100</pubDate>
+      
+      <guid>http://scienceslamzurich.ch/static-pages/pictures/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
