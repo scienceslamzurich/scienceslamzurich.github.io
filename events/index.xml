@@ -5,10 +5,19 @@
     <link>http://scienceslamzurich.ch/events/</link>
     <description>Recent content in Events on Science Slam Zürich</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 07 Mar 2020 20:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2020 20:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://scienceslamzurich.ch/events/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20ᵗʰ Science Slam Zürich</title>
+      <link>http://scienceslamzurich.ch/events/rote-fabrik-slam/</link>
+      <pubDate>Fri, 08 May 2020 20:00:00 +0100</pubDate>
+      
+      <guid>http://scienceslamzurich.ch/events/rote-fabrik-slam/</guid>
+      <description>Join us for the 20ᵗʰ edition of Science Slam Zürich at Rote Fabrik. More details and ticket sales to be announced!</description>
+    </item>
     
     <item>
       <title>Casino Science Slam</title>
