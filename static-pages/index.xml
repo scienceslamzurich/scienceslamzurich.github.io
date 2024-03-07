@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Static-pages on Science Slam Zürich</title>
-    <link>http://scienceslamzurich.ch/static-pages/</link>
+    <link>https://scienceslamzurich.ch/static-pages/</link>
     <description>Recent content in Static-pages on Science Slam Zürich</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 28 Jan 2020 08:30:00 +0100</lastBuildDate>
     
-	<atom:link href="http://scienceslamzurich.ch/static-pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://scienceslamzurich.ch/static-pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Impressions</title>
-      <link>http://scienceslamzurich.ch/static-pages/impressions/</link>
+      <link>https://scienceslamzurich.ch/static-pages/impressions/</link>
       <pubDate>Tue, 28 Jan 2020 08:30:00 +0100</pubDate>
       
-      <guid>http://scienceslamzurich.ch/static-pages/impressions/</guid>
+      <guid>https://scienceslamzurich.ch/static-pages/impressions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Partners</title>
-      <link>http://scienceslamzurich.ch/static-pages/partners/</link>
+      <link>https://scienceslamzurich.ch/static-pages/partners/</link>
       <pubDate>Tue, 28 Jan 2020 08:30:00 +0100</pubDate>
       
-      <guid>http://scienceslamzurich.ch/static-pages/partners/</guid>
+      <guid>https://scienceslamzurich.ch/static-pages/partners/</guid>
       <description>General Partners We are thankful for the on-going support of the following organizations, without which our activities would not be possible.
  Current Partners Upcoming Science Slam Zurich events are supported by the following partners.
  Past Partners Past Science Slam Zurich events were supported by the following partners.</description>
